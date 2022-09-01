@@ -1,0 +1,5 @@
+Vektörel Çarpım nedir?
+# Fiziksel anlamda vektörlerin vektörel çarpımı yine bir vektöre denktir; yani nokta çarpım gibi bir skaler'e eşit değildir.
+# Oluşan vektör çarpılan 2 vektöre de diktir.
+# Geometrik olarak düşünürsek çarpılan 2 vektörün uçlarının birleştirilmesi ile oluşan dörtgensel alanın alan büyüklüğü kadar sonuç vektörün şiddeti oluşur.
+Formülü ise |A|*|B|*sin(v) = |D| ' dir.
